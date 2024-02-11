@@ -1,0 +1,1 @@
+This is a repository of all the work from finals and semi-finals of Consult IT 2022 team competition. The task was to create a cybersecurity risk management architecture for a given client. We achieved 2nd place in the finals, judged by a jury consinsting of Accenture cybersecurity and risk management experts. 
